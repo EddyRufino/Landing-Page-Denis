@@ -273,6 +273,8 @@ ul #marker {
 .content-info-servicios p {
 	font-weight: 300;
 	color: #fff;
+	width: 85%;
+	text-align: center;
 }
 
 .container {
