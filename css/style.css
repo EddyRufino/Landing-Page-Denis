@@ -604,7 +604,7 @@ ul #marker {
 	}
 	header ul li a {
 		display: inline-block;
-		/*color: #111;*/
+		color: #fff;
 		font-weight: 400;
 		margin-left: 0;
 		text-decoration: none;
